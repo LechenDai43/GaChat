@@ -1,0 +1,8 @@
+1. profile - sub, right panel
+2. edit profile
+3. friends - sub, right panel
+4. search friends and send/accept requests
+5. status - sub, right panel
+6. forum - sub, right panel
+7. open a topic
+8. email things : EmailIcon, EmailFrame
